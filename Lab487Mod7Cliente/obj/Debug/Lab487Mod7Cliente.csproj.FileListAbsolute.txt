@@ -1,0 +1,12 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Lab487Mod7Cliente.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Lab487Mod7Cliente.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Lab487Mod7Cliente.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Lab487Mod7.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Lab487Mod7.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\obj\Debug\Lab487Mod7Cliente.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\obj\Debug\Lab487Mod7Cliente.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7Cliente\Lab487Mod7Cliente\obj\Debug\Lab487Mod7Cliente.pdb
